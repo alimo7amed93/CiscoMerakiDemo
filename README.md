@@ -1,9 +1,9 @@
 # CiscoMerakiDemo
 
-# Install the requests module
+## Install the requests module
 pip install --upgrade requests
 
-# Install Meraki SDK
+## Install Meraki SDK
 pip install --upgrade meraki
 
 # Use DevNet Always-On lab 
