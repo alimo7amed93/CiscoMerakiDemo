@@ -16,5 +16,5 @@ pip install --upgrade meraki
 ![Screenshot](https://github.com/alimo7amed93/CiscoMerakiDemo/blob/main/Picture3.png)
 
 # Explore Networks & Devices in Inventory
-![Screenshot](https://github.com/alimo7amed93/CiscoMerakiDemo/blob/main/Picture4.png)
 ![Screenshot](https://github.com/alimo7amed93/CiscoMerakiDemo/blob/main/Picture5.png)
+![Screenshot](https://github.com/alimo7amed93/CiscoMerakiDemo/blob/main/Picture4.png)
